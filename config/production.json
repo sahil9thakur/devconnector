@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://sahilthakur:sahilthakur@sahilthakur-pdqta.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "567b4c71d2e80484595f",
+  "githubSecret": "95a390db54d2f505e2cfc7db2dfc3912bf577aab"
+}
