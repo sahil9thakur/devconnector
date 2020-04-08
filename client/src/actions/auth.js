@@ -109,7 +109,7 @@ export const login = (
     }
 
     dispatch({
-      type: LOGIN_FAIL
+      type: LOGIN_FAIL           
     })
   }
 }
